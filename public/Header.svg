@@ -1,0 +1,61 @@
+<svg id="Header" xmlns="http://www.w3.org/2000/svg" width="1920" height="131" viewBox="0 0 1920 131">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d8f4ff;
+      }
+
+      .cls-2 {
+        font-size: 40px;
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #d8f4ff;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <rect id="Rechteck_16" data-name="Rechteck 16" class="cls-1" width="1920" height="131"/>
+  <text id="Bock_zu_waschen_So_sieht_s_gerade_aus_" data-name="Bock zu waschen? So sieht’s gerade aus…" class="cls-2" transform="translate(578 44)"><tspan x="0" y="42">Bock zu waschen? So sieht’s gerade aus…</tspan></text>
+  <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-3" cx="26" cy="26" r="26" transform="translate(385 59)"/>
+  <circle id="Ellipse_24" data-name="Ellipse 24" class="cls-3" cx="13.5" cy="13.5" r="13.5" transform="translate(449 19)"/>
+  <path id="Pfad_18" data-name="Pfad 18" class="cls-4" d="M4642.976,242.844s5.993,1.954,10.008,0,6.052-7.815,6.052-7.815" transform="translate(-4030.356 1459.174) rotate(-20)"/>
+  <path id="Pfad_21" data-name="Pfad 21" class="cls-4" d="M4642.976,242.844s5.993,1.954,10.008,0,6.052-7.815,6.052-7.815" transform="translate(-3007.356 1420.174) rotate(-20)"/>
+  <path id="Pfad_19" data-name="Pfad 19" class="cls-4" d="M0,4.075s3.125,1.019,5.218,0S8.373,0,8.373,0" transform="translate(463.487 36.113) rotate(-20)"/>
+  <g id="Gruppe_15" data-name="Gruppe 15">
+    <circle id="Ellipse_25" data-name="Ellipse 25" class="cls-3" cx="13.5" cy="13.5" r="13.5" transform="translate(488.252 79.99) rotate(-82)"/>
+    <path id="Pfad_20" data-name="Pfad 20" class="cls-4" d="M0,4.075s3.125,1.019,5.218,0S8.373,0,8.373,0" transform="matrix(-0.208, -0.978, 0.978, -0.208, 507.216, 68.026)"/>
+  </g>
+  <g id="Gruppe_16" data-name="Gruppe 16" transform="translate(1025.695 63.087) rotate(-7)">
+    <circle id="Ellipse_25-2" data-name="Ellipse 25" class="cls-3" cx="13.5" cy="13.5" r="13.5" transform="translate(488.252 79.99) rotate(-82)"/>
+    <path id="Pfad_20-2" data-name="Pfad 20" class="cls-4" d="M0,4.075s3.125,1.019,5.218,0S8.373,0,8.373,0" transform="matrix(-0.208, -0.978, 0.978, -0.208, 507.216, 68.026)"/>
+  </g>
+  <g id="Gruppe_21" data-name="Gruppe 21" transform="translate(1273.238 524.883) rotate(-76)">
+    <circle id="Ellipse_25-3" data-name="Ellipse 25" class="cls-3" cx="29.207" cy="29.207" r="29.207" transform="translate(488.252 111.099) rotate(-82)"/>
+    <path id="Pfad_20-3" data-name="Pfad 20" class="cls-4" d="M0,8.815s6.76,2.2,11.289,0S18.116,0,18.116,0" transform="matrix(-0.208, -0.978, 0.978, -0.208, 529.28, 85.214)"/>
+  </g>
+  <g id="Gruppe_19" data-name="Gruppe 19" transform="matrix(0.602, -0.799, 0.799, 0.602, 1214.415, 456.388)">
+    <circle id="Ellipse_25-4" data-name="Ellipse 25" class="cls-3" cx="10.532" cy="10.532" r="10.532" transform="translate(488.252 74.111) rotate(-82)"/>
+    <path id="Pfad_20-4" data-name="Pfad 20" class="cls-4" d="M0,3.179s2.438.795,4.071,0S6.532,0,6.532,0" transform="matrix(-0.208, -0.978, 0.978, -0.208, 503.047, 64.778)"/>
+  </g>
+  <g id="Gruppe_18" data-name="Gruppe 18" transform="translate(1990.634 -208.502) rotate(133)">
+    <circle id="Ellipse_25-5" data-name="Ellipse 25" class="cls-3" cx="9.909" cy="9.909" r="9.909" transform="translate(488.252 72.877) rotate(-82)"/>
+    <path id="Pfad_20-5" data-name="Pfad 20" class="cls-4" d="M0,2.991a6.114,6.114,0,0,0,3.83,0A5.89,5.89,0,0,0,6.146,0" transform="matrix(-0.208, -0.978, 0.978, -0.208, 502.171, 64.096)"/>
+  </g>
+  <g id="Gruppe_20" data-name="Gruppe 20" transform="matrix(-0.588, 0.809, -0.809, -0.588, 1874.005, -336.48)">
+    <circle id="Ellipse_25-6" data-name="Ellipse 25" class="cls-3" cx="8.048" cy="8.048" r="8.048" transform="translate(488.252 69.192) rotate(-82)"/>
+    <path id="Pfad_20-6" data-name="Pfad 20" class="cls-4" d="M0,2.429a4.966,4.966,0,0,0,3.111,0A4.783,4.783,0,0,0,4.992,0" transform="matrix(-0.208, -0.978, 0.978, -0.208, 499.557, 62.059)"/>
+  </g>
+  <g id="Gruppe_17" data-name="Gruppe 17" transform="translate(1063.031 36.533) rotate(-7)">
+    <circle id="Ellipse_25-7" data-name="Ellipse 25" class="cls-3" cx="10.274" cy="10.274" r="10.274" transform="translate(488.252 73.601) rotate(-82)"/>
+    <path id="Pfad_20-7" data-name="Pfad 20" class="cls-4" d="M0,3.1s2.378.775,3.971,0S6.373,0,6.373,0" transform="matrix(-0.208, -0.978, 0.978, -0.208, 502.685, 64.496)"/>
+  </g>
+</svg>

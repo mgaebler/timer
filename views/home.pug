@@ -1,0 +1,30 @@
+extends layout
+
+block body-content
+  .header.margin-bottom-s Bock zu waschen? So sieht's gerade aus...👀
+
+  .item-list
+    each item in items
+      .item
+        if item.active
+          .card
+            .card-header.margin-bottom-s.font-bold= item.name
+            .icon.active
+              img(src= item.imageSrc)
+            .card-footer
+              .font-bold.text-uppercase läuft noch
+              .font-bold.text-uppercase.margin-bottom-s
+                span= item.countdown
+                span &nbsp;Minuten
+              .font-small
+                span Fertig um&nbsp;
+                span= item.timeUntilReady
+                span &nbsp;Uhr
+        else
+          .card
+            .card-header.margin-bottom-s.font-bold= item.name
+            .icon
+              a(href= '/timer/' + item.id)
+                img(src= item.imageSrc)
+            .card-footer
+                .font-bold.text-uppercase frei

@@ -1,0 +1,14 @@
+extends layout
+
+block body-content
+  div
+    h1 Commands
+    table
+      each command in commands
+        tr
+          td= command.name
+          td
+            a(href= command.url)= command.url
+          td
+            if command.qrCode
+              img(src= command.qrCode)

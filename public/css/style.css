@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+button {
+  border: none;
+  padding: 8px 12px;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+  font-size: xx-large;
+  padding: 24px;
+  background-color: aliceblue;
+}
+
+.item-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.item {
+  width: 150px;
+  /* width: 25%; */
+  /* outline: thin solid red; */
+}
+.icon img {
+  width: 100%;
+}
+.card {
+  margin: 8px;
+  text-align: center;
+}
+
+.card-header {
+}
+
+.card-footer {
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.font-small {
+  font-size: small;
+}
+.font-large {
+  font-size: large;
+}
+.font-large-x {
+  font-size: x-large;
+}
+
+.margin-bottom-s {
+  margin-bottom: 8px;
+}
+.margin-bottom-m {
+  margin-bottom: 20px;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+/* animations */
+
+.active {
+  -webkit-animation: vibrate-1 0.3s linear infinite both;
+  animation: vibrate-1 0.3s linear infinite both;
+}
+
+@keyframes vibrate-1 {
+  0% {
+    -webkit-transform: translate(0);
+    transform: translate(0);
+  }
+  20% {
+    -webkit-transform: translate(-2px, 2px);
+    transform: translate(-2px, 2px);
+  }
+  40% {
+    -webkit-transform: translate(-2px, -2px);
+    transform: translate(-2px, -2px);
+  }
+  60% {
+    -webkit-transform: translate(2px, 2px);
+    transform: translate(2px, 2px);
+  }
+  80% {
+    -webkit-transform: translate(2px, -2px);
+    transform: translate(2px, -2px);
+  }
+  100% {
+    -webkit-transform: translate(0);
+    transform: translate(0);
+  }
+}

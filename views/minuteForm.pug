@@ -1,0 +1,11 @@
+extends layout
+
+block body-content
+  .header.margin-bottom-m Wie lange soll das Gerät laufen? ⏲
+  .text-align-center.font-large-x
+    form(action="/timer/"+id)
+      .margin-bottom-m
+        input(type="number", min="1", max="260" name="minutes" autofocus)
+        span &nbsp;Minuten
+      .margin-bottom-m
+        button(type="submit") Timer starten!
