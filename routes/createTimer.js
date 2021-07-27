@@ -24,7 +24,7 @@ module.exports = async (req, res) => {
   }
 
   if (!minutes) {
-    res.render("minuteForm", { id });
+    res.render("timeForm", { id });
     return;
   }
 
@@ -43,6 +43,4 @@ module.exports = async (req, res) => {
   //   resultDB,
   // });
   res.render("createItemSuccess", { id });
-
-  // res.send(req.params)
 };

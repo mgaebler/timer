@@ -1,0 +1,15 @@
+extends layout
+
+block body-content
+  script(src='/js/timeForm.js')
+  .header.margin-bottom-m Wie lange soll das Gerät laufen? ⏲
+  .text-align-center.font-large-x
+    form#timeForm(action="/timer/"+id)
+      .margin-bottom-m
+        input#hourInput.text-align-right(type="number", min="0", max="6" name="_hours" autofocus)
+        span &nbsp;h&nbsp;
+        input.text-align-right(type="number", min="0", max="59" name="_minutes")
+        span &nbsp;min
+        input(type="hidden", name="minutes")
+      .margin-bottom-m
+        button(type="submit") Timer starten!
